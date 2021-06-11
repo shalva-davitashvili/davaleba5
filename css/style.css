@@ -1,3 +1,40 @@
+/* --- home page --- */
+
+.navbar-li{
+	display: inline-block;
+	text-decoration: none;
+	margin-left: 50px;
+}
+.box{
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 50px;
+	background: #F2F2F2;
+}
+.image{
+	height: 50px;
+}
+.text{
+	display: inline-block;
+	width: 500px;
+	margin-left: 20px;
+}
+.satauri{
+	margin-bottom: 20px;
+}
+.cnobari{
+	margin-top: 60px;
+	margin-left: 50px;
+}
+.image11{
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+}
+
 /* --- contact pages body --- */
 
 .contactPage {
