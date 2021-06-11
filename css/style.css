@@ -99,6 +99,6 @@
 	margin: 35px 30px;
 }
 
-.activi{
-	color: red;
+.activi { /*აქტიური ფეიჯის ღილაკის ფერი*/
+	color: #EE4036;
 }
