@@ -1,37 +1,40 @@
 /* --- home page --- */
-.navbar-li{
+
+.navbar-li {
 	display: inline-block;
 	text-decoration: none;
 	margin-left: 50px;
 }
-.box{
+.box {
 	display: inline-block;
 	margin-top: 50px;
 	margin-left: 50px;
 	background: #F2F2F2;
 }
-.image{
+.image {
 	height: 50px;
 }
-.text{
+
+.text {
 	display: inline-block;
 	width: 500px;
 	margin-left: 20px;
 }
-.satauri{
+.satauri {
 	margin-bottom: 20px;
 }
-.cnobari{
+.cnobari {
 	margin-top: 60px;
 	margin-left: 50px;
 }
-.image11{
-	margin-left: 30px;
-	margin-top: 50px;
+.image11 {
+	margin-left: 38px;
+	/*margin-top: 50px;*/ 
 }
-.logo{
+.menuBar {
 	display: inline-block;
 	vertical-align: middle;
+	margin: 30px 30px 20px 30px;
 }
 
 /* --- contact pages body --- */
@@ -46,11 +49,12 @@
 }
 
 .map {
-	margin: 52px 90px 52px auto;
+	position: initial;
+	margin: 52px 90px 52px 44px;
 }
 
 .contactInfo {
-	margin: 52px auto auto 44px;
+	margin: 52px 90px auto 44px;
 }
 
 .contactInfo h3 {
@@ -87,9 +91,13 @@
 
 .footerDivider {
 	border-right: 1px solid #3D58A6;
-	padding-right: 35px;
+	padding: 0 35px 0 18px;
 	margin-right: 30px;
 }
 
 .footerHeight {
+<<<<<<< Updated upstream
 	margin: 35px 44px;
+=======
+	margin: 35px 30px;
+}
